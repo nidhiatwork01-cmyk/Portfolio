@@ -1,0 +1,23 @@
+Nidhi Singh
+nidhiatwork.01@gmail.com
++91 8101414224
+https://www.linkedin.com/in/nidhi-singh-b0834b288
+https://github.com/nidhiatwork01-cmyk
+
+16/12/2025
+
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position . With a strong foundation in modern frontend technologies and a passion for building user-centric applications, I am excited about the opportunity to contribute to Bluelight's mission of delivering innovative software solutions.
+
+Throughout my journey as a Frontend Developer, I have honed my skills in React, Redux, Vue.js, TypeScript, and Tailwind CSS by building responsive and interactive web applications. My hackathon-winning project, "Campus Event Navigator," demonstrates my ability to architect full-stack solutions with React and modern APIs, solving real-world problems through thoughtful UI/UX design. Additionally, my experience developing an e-commerce platform with complex state management and a professional portfolio dashboard showcases my proficiency in creating scalable, maintainable codebases.
+
+What particularly resonates with me about Bluelight is your "White Belt Mentality" philosophy—the commitment to continuous learning regardless of experience level. As a student developer who is actively expanding my skill set (currently learning Node.js to transition into full-stack development), this growth-oriented culture aligns perfectly with my professional aspirations. Your emphasis on innovation and collaborative teamwork, combined with a fully remote work environment, creates an ideal setting for both personal development and meaningful contribution to transformative tech projects.
+
+My technical expertise in React, JavaScript (ES6+), and modern CSS frameworks, along with my experience in API integration and responsive design, positions me well to contribute to company's diverse portfolio of custom software development projects. I am eager to bring my problem-solving abilities, attention to detail, and passion for clean, efficient code to your team.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills and enthusiasm align with company's goals and how I can contribute to your team's continued success.
+
+Sincerely,
+Nidhi Singh
+
